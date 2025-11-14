@@ -5,7 +5,7 @@
 Write a function in JavaScript that takes a dictionary D where each key is a date (in YYYY-MM-DD format) and its value is an integer.
 Return a new dictionary where:
 
-Keys represent the days of the week — Mon, Tue, Wed, Thu, Fri, Sat, Sun.
+Keys represent the days of the week — Mon, Tue, Wed, Thu, Fri, Sat, Sun.  
 
 Each value is the sum of all integers corresponding to that weekday.
 
